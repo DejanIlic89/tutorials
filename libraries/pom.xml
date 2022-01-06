@@ -710,7 +710,7 @@
 
     <properties>
 
-        <googleclient.version>1.23.0</googleclient.version>
+        <googleclient.version>1.41.0</googleclient.version>
         <multiverse.version>0.7.0</multiverse.version>
         <cglib.version>3.2.7</cglib.version>
         <javatuples.version>1.2</javatuples.version>
