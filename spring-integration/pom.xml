@@ -84,7 +84,7 @@
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
-            <version>1.4.197</version>
+            <version>2.0.206</version>
         </dependency>
     </dependencies>
 
@@ -117,7 +117,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>5.0.13.RELEASE</spring.version>
+        <spring.version>5.2.14.RELEASE</spring.version>
         <spring-social.version>1.1.4.RELEASE</spring-social.version>
         <javax-mail.version>1.4.7</javax-mail.version>
         <javax-activation.version>1.1.1</javax-activation.version>
