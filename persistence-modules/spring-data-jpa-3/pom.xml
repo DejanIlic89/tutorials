@@ -72,7 +72,7 @@
 
     <properties>
         <testcontainers.version>1.12.2</testcontainers.version>
-        <postgresql.version>42.2.8</postgresql.version>
+        <postgresql.version>42.2.26</postgresql.version>
     </properties>
 
 </project>
